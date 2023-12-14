@@ -1,4 +1,4 @@
-# <a href="https://www.dio.me/">
+# 
 <img align="left" width="40px" src="https://i.imgur.com/XG4SjUc.gif"></a>
 # Oi, eu sou a Thaís! 
 - Sou uma entusiasta de tecnologia apaixonada por jogos e fascinada pelo mundo digital.  
